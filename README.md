@@ -42,8 +42,7 @@ The dataset contains sales records from a grocery shop, including the following 
 
 ### 3. Sales Forecasting
 - Using **time series analysis**, I forecasted future sales based on historical data.
-  - **Moving Averages**: Applied simple moving averages to smooth out the sales trend.
-  - **ARIMA Model**: Implemented the ARIMA model to predict future sales based on past data.
+- **SARIMA Model**: Implemented the ARIMA model to predict future sales based on past data.
 
 ### 4. Visualization
 - Created visualizations using **matplotlib** and **seaborn** to illustrate:
