@@ -72,6 +72,9 @@ cd sales-data-analysis-forecasting
 ### 2. Install the required libraries
 pip install -r requirements.txt
 
+### Run the project
+google colab notebook grocery_store.ipynb
+
 ### Conclusion
 This project helps understand how historical sales data can be used to:
 
